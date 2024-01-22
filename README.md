@@ -15,4 +15,4 @@ Here are some of the projects that best demonstrate my proficiency with data sci
 
 [Investing Movie Budgets](https://github.com/ahendricks2/MovieBudgetOptimization): In this project, I investigate the profitability of three possible strategies for investing movie budgets based on about 5k records related to movie budget and profitability. The project shows off my ability to do hypothesis testing, to use inferential statistics and to work with MS Excel.
 
-Thank you for taking an interest in my repository, and please feel free to reach out to connect about all things data science!
+#### Thank you for taking an interest in my repository, and please feel free to reach out to connect about all things data science!

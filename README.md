@@ -1,6 +1,6 @@
 ### Hello! Welcome to my repository!
 
-After a 15 year career as a teacher and assistant principal, I enrolled in the data science program at the Flatiron School to take my data skills to the next level. I graduated this winter, and now, I am looking for a data analyst or data scientist position where I can contribute my technical skills and experience.
+After a 15 year career as a teacher and assistant principal, I enrolled in the data science program at the Flatiron School to take my data skills to the next level. I graduated this winter, and now, I am looking for a position as a data analyst or data scientist. I am particularly interested in using data to support schools improvement.
 
 ### Highlighted Projects:
 

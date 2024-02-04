@@ -2,12 +2,7 @@
 
 After a 15 year career as a teacher and assistant principal, I enrolled in the data science program at the Flatiron School to take my data skills to the next level. I graduated this winter, and now, I am looking for a data analyst or data scientist position where I can contribute my technical skills and experience.
 
-- 🌱 I’m currently growing my skills with Tableau and SQL
-- 💬 Ask me about the intersection of data science and education
-- 😄 Pronouns: He/him
-
 ### Highlighted Projects:
-Here are some of the projects that best demonstrate my proficiency with data science tools as well as my ability to uncover and communicate data-driven insights across a variety of fields.
 
 [Linking Writing Process and Writing Quality](https://github.com/ahendricks2/EssayKeystrokes): The goal of this project is to predict the final score of an essay based on the writer's keystroke behaviors alone (with no access to the content of the essay). Some of the main tools I use in this project are Pandas for preprocessing and scikit-learn for modeling. I include a non-technical presentation, found in the readme, to share insights from the analysis.
 
